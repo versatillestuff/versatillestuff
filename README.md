@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @versatillestuff  Varun Gautam
-- 👀 I’m interested in ... Python Development
-- 🌱 I’m currently learning ... ML
+- 👀 I’m interested in ... Web Development
 - 💞️ I’m looking to collaborate on ...  anything intresting and making Impact
 - 📫 How to reach me ... vrgtm17@gmail.com  +919617042730
 
